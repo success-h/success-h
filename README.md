@@ -8,9 +8,7 @@
 />
 
 <!-- ![](https://komarev.com/ghpvc/?username=success-h) -->
-
-
-<img align="right" alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;">
+<img align="right" alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;" />
 
 [website]: https://successhycenth.netlify.app
 [linkedin]: https://www.linkedin.com/in/dnature/
