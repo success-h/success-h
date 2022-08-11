@@ -11,8 +11,8 @@
 
 <img align="right" alt="Coder GIF" height="40%" width="50%" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;" />
 
-[website]: https://successhycenth.netlify.app
-[linkedin]: https://www.linkedin.com/in/dnature/
+[website]: https://successhycenth.vercel.app
+[linkedin]: https://www.linkedin.com/in/success-hycenth-a57556204
 [email]: mailto:contact@successhycenth8@gmail.com 
 [twitter]: https://twitter.com/success__hycent/
 [dev]: https://dev.to/successhycenth
