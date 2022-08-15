@@ -1,10 +1,9 @@
 ## Hi there, I'm Success Hycenth<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=success-h&show_icons=true&theme=tokyonight" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=success-h&layout=compact" />
 
 
 <!-- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dnature&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=success-h&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 /> -->
 
 ![](https://komarev.com/ghpvc/?username=success-h&color=blueviolet)
