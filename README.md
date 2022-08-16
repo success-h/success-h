@@ -1,4 +1,5 @@
 ## Hi there, I'm Success Hycenth<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">
 
 
 ![](https://komarev.com/ghpvc/?username=success-h&color=blueviolet)
