@@ -26,7 +26,7 @@
 <br/>
 
 # My name is **Success Hycenth**
-A meticulous, task-driven (Entry-Level)Full Stack Web Developer with considerable experience in Python JavaScript frameworks like Django, Reactjs, Next.js and Typescript(Entry Level), Adept at providing good communication in process of problem solving, some other tools I use includes Figma and AdobeXD for my UI designs.
+A meticulous, task-driven (Entry-Level) Full Stack Web Developer with considerable experience in Python JavaScript frameworks like Django, Reactjs, Next.js and Typescript(Entry Level), Adept at providing good communication in process of problem solving, some other tools I use includes Figma and AdobeXD for my UI designs.
 
 I am proficient in  
 
