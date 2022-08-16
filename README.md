@@ -27,7 +27,7 @@
 
 # My name is **Success Hycenth**
 
-Innovative Full Stack with hands on coding experience. I am inspired by
+An Self-taught and Innovative Full Stack Developer with hands on coding experience. I am inspired by
 
 making a positive impact by applying specifications development skills and my
 
