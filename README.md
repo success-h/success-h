@@ -51,8 +51,7 @@ Frontend Packages / libraries:
 
 Backend
 
-- Nodejs
-- Express
+- Python Django & DjangoRestFramework
 - MongoDb
 - Sql
 
@@ -61,10 +60,8 @@ Continuous deployment on
 - Netlify
 - Vercel
 - Heroku
-- Cpanel
 
 <!--Also:
-- PHP
 - MySql
 -->
 
@@ -76,7 +73,5 @@ I love to talk about algorithm, automation's, design patterns, code patterns, an
 
 <!-- - Link Tree: [unclebigbay](https://linktr.ee/unclebigbay) -->
 
-- Personal Website: [Jovick-coder](https://jovick-coder.netlify.app)
-- Blog: [Jovick-blog](https://jovick-blog.hashnode.dev/)
-- LinkedIn: [Josiah Victor](https://www.linkedin.com/in/josiah-victor/)
-<!-- - Medium: [jovick-coder.medium.com](https://www.jovick-coder.medium.com/) -->
+- Personal Website: [SUCCESS_HYCENTH](https://successhycenth.vercel.app/)
+- LinkedIn: [SUCCESS HYCENTH](https://www.linkedin.com/in/success-hycenth-a57556204/)
