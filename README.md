@@ -25,7 +25,7 @@
 
 <br/>
 
-# My name is **SUCCESS HYCENTH**
+# My name is **Success Hycenth**
 
 Innovative Full Stack with hands on coding experience. I am inspired by
 
