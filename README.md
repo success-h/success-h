@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=success-h&color=blueviolet)
 
-<img align="right" alt="Coder GIF" height="40%" width="50%" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;" />
+<img align="center" alt="Coder GIF" height="20%" width="30%" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" data-canonical-src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" style="max-width:100%;" />
 
 [website]: https://successhycenth.vercel.app
 [linkedin]: https://www.linkedin.com/in/success-hycenth-a57556204
