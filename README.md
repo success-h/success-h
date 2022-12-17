@@ -26,29 +26,20 @@
 <br/>
 
 # My name is **Success Hycenth**
-A meticulous, task-driven (Entry-Level) Full Stack Web Developer with considerable experience in Python JavaScript frameworks like Django, Reactjs, Next.js and Typescript(Entry Level), Adept at providing good communication in process of problem solving, some other tools I use includes Figma and AdobeXD for my UI designs.
+A JavaScript/Python Software Engineer(Mobile/Web) - React Native / ReactJs / Django
 
-I am proficient in  
+I am proficient in
 
-- HTML  
-- CSS  
-- JavaScript
-- Python
-- Git Version Control
-
-Frontend Packages / libraries:
-
+- Git/Github
+- React Native - Android/IOS Development
+- TypeScript
 - Reactjs & Nextjs
-- Django & DjangoRestFramework  
 - Tailwind CSS
 - Nature-UI & Chakra-UI
 - Graphql Apollo Client
-
-Backend
-
 - Python Django & DjangoRestFramework
 - MongoDb
-- Sql
+- PostgreSQL
 
 Continuous deployment on  
 
@@ -62,7 +53,7 @@ Continuous deployment on
 
 The tools come and go, but some concepts are kept, that's where I keep my efforts.
 
-I love to talk about algorithm, automation's, design patterns, code patterns, and things that make me a better developer.
+I love to talk about mobile developments, design patterns, code patterns, and things that make me a better developer.
 
 ### Get in Touch
 
