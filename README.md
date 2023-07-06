@@ -32,6 +32,7 @@ I am proficient in
 - React Native - Android/IOS Development
 - TypeScript
 - Reactjs & Nextjs
+- Nodejs Express
 - Tailwind CSS
 - Nature-UI & Chakra-UI
 - Graphql Apollo Client
